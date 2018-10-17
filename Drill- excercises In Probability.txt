@@ -1,0 +1,4 @@
+1-0.5,0.25, 0.5
+2-24/45
+3-10*.005
+4- there isn't enough data to make any assumptions
